@@ -23,6 +23,10 @@ The following libraries and packages are used in this project:
 
 This Jupyter notebook works on web based applications and locally. Simply open the "ComputerVision.ipynb" file. 
 
+EDA and file exploration using ImageDataGen:
+![image](https://github.com/user-attachments/assets/a5e06cc9-85e8-4679-8e31-354f0eb086d5)
+
+
 ### Conclusions
 This model was successful in achieving a Mean Absolute Error (MAE) lower than our target threshold of 8. Specifically, the model achieved a test MAE of 6.6419. This impressive result highlights the model's accuracy and reliability in predicting outcomes with minimal error.
 
