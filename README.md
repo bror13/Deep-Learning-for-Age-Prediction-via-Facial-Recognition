@@ -22,3 +22,10 @@ The following libraries and packages are used in this project:
 - tensorflow.keras.callbacks import ReduceLROnPlateau, EarlyStopping
 
 This Jupyter notebook works on web based applications and locally. Simply open the "ComputerVision.ipynb" file. 
+
+### Conclusions
+This model was successful in achieving a Mean Absolute Error (MAE) lower than our target threshold of 8. Specifically, the model achieved a test MAE of 6.6419. This impressive result highlights the model's accuracy and reliability in predicting outcomes with minimal error.
+
+The MAE indicates that the model's predictions are consistently close to the actual values, showcasing its ability to effectively capture the underlying patterns in the data.
+
+Overall, achieving a test MAE of 6.5182 was impressive considering the size of the dataset and techniques used to limit the computational usage in model training.
